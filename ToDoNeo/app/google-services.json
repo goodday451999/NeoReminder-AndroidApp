@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736551610411",
+    "firebase_url": "https://todoneo-a2e03.firebaseio.com",
+    "project_id": "todoneo-a2e03",
+    "storage_bucket": "todoneo-a2e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736551610411:android:448ea99a1e1c2134",
+        "android_client_info": {
+          "package_name": "com.example.nilot.todoneo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736551610411-buurc2h3c5nrf6sanmnihekhde7t3lnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nilot.todoneo",
+            "certificate_hash": "41f019294653bc321587b1f909240729ed65a264"
+          }
+        },
+        {
+          "client_id": "736551610411-n72j4go0gg142d6pup00s9nb05jorl4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDEKx-TcogAUMRbmK_Czfhp0HURc6fQ4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736551610411-n72j4go0gg142d6pup00s9nb05jorl4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
